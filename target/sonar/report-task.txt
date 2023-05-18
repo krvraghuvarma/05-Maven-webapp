@@ -1,0 +1,6 @@
+projectKey=in.raghuvarma:05-Maven-webApp
+serverUrl=http://54.236.23.81:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://54.236.23.81:9000/dashboard?id=in.raghuvarma%3A05-Maven-webApp
+ceTaskId=AYgu-4gce75KQHXTx4Ph
+ceTaskUrl=http://54.236.23.81:9000/api/ce/task?id=AYgu-4gce75KQHXTx4Ph
